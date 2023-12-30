@@ -1,1 +1,1 @@
-# NarutoGo Installer
+# NarutoGo Installer and Scripts
